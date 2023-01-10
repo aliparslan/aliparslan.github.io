@@ -1,0 +1,6 @@
+baseURL = 'https://aliparslan.github.io/'
+languageCode = 'en-us'
+title = 'alip.page'
+theme = 'hugo-bearblog'
+
+publishDir = 'docs'
